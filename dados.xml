@@ -1,0 +1,72 @@
+<recompensas>
+    <opções>
+        <id>1</id>
+        <nome>Nike Air Max</nome>
+        <conforto>Alto</conforto>
+        <preço>$150</preço>
+        <tipo>Running</tipo>
+    </opções>
+    <opções>
+        <id>2</id>
+        <nome>Adidas Ultraboost</nome>
+        <conforto>Médio</conforto>
+        <preço>$180</preço>
+        <tipo>Running</tipo>
+    </opções>
+    <opções>
+        <id>3</id>
+        <nome>Converse Chuck Taylor</nome>
+        <conforto>Médio</conforto>
+        <preço>$60</preço>
+        <tipo>Casual</tipo>
+    </opções>
+    <opções>
+        <id>4</id>
+        <nome>Nike Air Jordan 1</nome>
+        <conforto>Alto</conforto>
+        <preço>$200</preço>
+        <tipo>Basketball</tipo>
+    </opções>
+    <opções>
+        <id>5</id>
+        <nome>Reebok Classic</nome>
+        <conforto>Alto</conforto>
+        <preço>$80</preço>
+        <tipo>Casual</tipo>
+    </opções>
+    <opções>
+        <id>6</id>
+        <nome>Vans Old Skool</nome>
+        <conforto>Médio</conforto>
+        <preço>$65</preço>
+        <tipo>Casual</tipo>
+    </opções>
+    <opções>
+        <id>7</id>
+        <nome>New Balance 990</nome>
+        <conforto>Alto</conforto>
+        <preço>$175</preço>
+        <tipo>Running</tipo>
+    </opções>
+    <opções>
+        <id>8</id>
+        <nome>Puma Suede</nome>
+        <conforto>Médio</conforto>
+        <preço>$70</preço>
+        <tipo>Casual</tipo>
+    </opções>
+    <opções>
+        <id>9</id>
+        <nome>Asics Gel-Lyte</nome>
+        <conforto>Alto</conforto>
+        <preço>$120</preço>
+        <tipo>Running</tipo>
+    </opções>
+    <opções>
+        <id>10</id>
+        <nome>Under Armour HOVR</nome>
+        <conforto>Médio</conforto>
+        <preço>$140</preço>
+        <tipo>Running</tipo>
+    </opções>
+</recompensas>
